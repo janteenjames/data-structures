@@ -1,1 +1,1 @@
-# data-structures
+# datastructure
